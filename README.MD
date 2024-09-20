@@ -43,5 +43,7 @@
 
 ## Github Stats
 
+<div align="center">
 <a href="http://www.github.com/Nikita8Sannikov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita8Sannikov&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 <br/>
