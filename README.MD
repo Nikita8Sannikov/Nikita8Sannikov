@@ -8,7 +8,7 @@
   <a href="https://t.me/zvezda_severa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sannikov-nikita/" target="_blank">
+<a href="https://www.linkedin.com/in/sannikov-nikita/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"  />
 </a>  
 </div>
