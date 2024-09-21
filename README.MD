@@ -17,11 +17,12 @@
 
 ## <div align="center">I am a Frontend developer specializing in creating applications using JavaScript and React.</div>
 
-- 🚀 I’m currently working on my [Randomizeo project](https://github.com/Nikita8Sannikov/Randomizeo.Choose-your-movie-to-watch)
-
-- 🌍 I'm based in Bishkek
+- 🚀 **I’m currently working** on my [Randomizeo project](https://github.com/Nikita8Sannikov/Randomizeo.Choose-your-movie-to-watch)
+- 🌱 **I’m currently learning**
+  Advanced TypeScript techniques, Next.js, and improving my UI/UX design skills.
+- 🌍 **I'm based** in Bishkek
   <br/>
-- 🧩 Fun Fact: Coding is like a puzzle for me – I just happen to prefer digital pieces! 🔢🧠
+- 🧩 **Fun Fact:** Coding is like a puzzle for me – I just happen to prefer digital pieces! 🔢🧠
 
 ## Languages and Tools:
 
